@@ -11,6 +11,8 @@ Deep reinforcement learning algorithm using Keras performed.
 The snake game is codded in python using Pygame. D-Q learning performed instead of using the traditional approach of machine learning. Bellman equation used in which Q-values updated. 120 hidden neurons are used, and dropout layer used for the optimization. 
 For the training of the game, State-Action-Reward-State applied. After the training of the data, testing of the game applied -- in the testing of the game, snake moving capabilities tested and tested until the game terminated.  
 
+**First time running the game on cluster**
+
 ![GitHub Logo](./Figure0_003.png)
 
 
