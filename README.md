@@ -18,7 +18,7 @@ For the training of the game, State-Action-Reward-State applied. After the train
 ** Game*
 
 
-![GitHub Logo](./game runing.png)
-game running.png
+![GitHub Logo](./GameRuning.png)
+
 
 
