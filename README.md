@@ -15,4 +15,10 @@ For the training of the game, State-Action-Reward-State applied. After the train
 
 ![GitHub Logo](./Figure0_003.png)
 
+** Game*
+
+
+![GitHub Logo](./game runing.png)
+game running.png
+
 
