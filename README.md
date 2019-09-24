@@ -15,7 +15,9 @@ For the training of the game, State-Action-Reward-State applied. After the train
 
 ![GitHub Logo](./Figure0_003.png)
 
-** Game*
+**Game running on the cluster**
+
+GPU = 1 -C = 5
 
 
 ![GitHub Logo](./GameRunning.png)
