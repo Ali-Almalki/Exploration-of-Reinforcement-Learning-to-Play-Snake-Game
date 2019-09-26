@@ -25,7 +25,7 @@ GPU = 1 -C = 5
 
 **After a few times training the game**
 
-
+![GitHub Logo](./FewTimeTr.png)
 
 
 **The agent in the game trained with the SARSA algorithm. In
