@@ -25,7 +25,7 @@ For the training of the game, State-Action-Reward-State applied. After the train
 
 
 **The agent in the game trained with the SARSA algorithm. In
-the game the algorithm trained based upon the SARSA algorithm using the following code.
+the game the algorithm trained based upon the SARSA algorithm using the following code**.
 
     def train_short_memory(self, state, action, reward, next_state, done):
     target = reward
