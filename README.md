@@ -6,6 +6,8 @@ In this project, we are trying to controll the snake that moves freely into diff
 
 
 GPU = 1 -C = 5
+
+
 ![GitHub Logo](./GameRunning.png)
 
 Q-learning algorithm with Keras as neural network models used. 
