@@ -42,6 +42,8 @@ where the next action taken. The SARSA algorithm works in which the agent is in 
 actions taken by the agent in which the reward R taken. The agent gets back to the state S to take
 the next action A.
 
+** State-Action-Reward-State-Action (SARSA) Algorithm and Reinforcement Learning:**
+
 
 
 
