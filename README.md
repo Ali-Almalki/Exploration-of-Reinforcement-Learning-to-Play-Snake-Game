@@ -25,7 +25,7 @@ GPU = 1 -C = 5
 
 
 **The agent in the game trained with the SARSA algorithm. In
-the game the algorithm trained based upon the SARSA algorithm using the following code**.
+the game the algorithm trained based upon the SARSA algorithm using the following code**
 
     def train_short_memory(self, state, action, reward, next_state, done):
     target = reward
@@ -42,7 +42,9 @@ where the next action taken. The SARSA algorithm works in which the agent is in 
 actions taken by the agent in which the reward R taken. The agent gets back to the state S to take
 the next action A.
 
-** State-Action-Reward-State-Action (SARSA) Algorithm and Reinforcement Learning**:
+**State-Action-Reward-State-Action (SARSA) Algorithm and Reinforcement Learning**:
+
+
 
 
 
