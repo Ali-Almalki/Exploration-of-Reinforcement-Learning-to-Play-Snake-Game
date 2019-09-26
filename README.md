@@ -24,18 +24,18 @@ For the training of the game, State-Action-Reward-State applied. After the train
 
 
 
-The agent in the game trained with the SARSA algorithm. In
+**The agent in the game trained with the SARSA algorithm. In
 the game the algorithm trained based upon the SARSA algorithm using the following code.
 
-def train_short_memory(self, state, action, reward, next_state, done):
+    def train_short_memory(self, state, action, reward, next_state, done):
     target = reward
 
-    if not done:
-        target = reward + self.gamma *
-np.amax(self.model.predict(next_state.reshape((1, state_dim)))[0])
-    target_f = self.model.predict(state.reshape((1, state_dim)))
-    target_f[0][np.argmax(action)] = target
-    self.model.fit(state.reshape((1, state_dim)), target_f, epochs=1, verbose=0)
+        if not done:
+            target = reward + self.gamma *
+    np.amax(self.model.predict(next_state.reshape((1, state_dim)))[0])
+        target_f = self.model.predict(state.reshape((1, state_dim)))
+        target_f[0][np.argmax(action)] = target
+        self.model.fit(state.reshape((1, state_dim)), target_f, epochs=1, verbose=0)
     
 Using the python code in the game the SARSA algorithm performed and it trained the agent
 where the next action taken. The SARSA algorithm works in which the agent is in state S,
