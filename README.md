@@ -23,6 +23,10 @@ GPU = 1 -C = 5
 ![GitHub Logo](./Figure0_003.png)
 
 
+**After a few times training the game**
+
+
+
 
 **The agent in the game trained with the SARSA algorithm. In
 the game the algorithm trained based upon the SARSA algorithm using the following code**
