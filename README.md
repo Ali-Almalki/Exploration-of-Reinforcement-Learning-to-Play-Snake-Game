@@ -16,7 +16,7 @@ GPU = 1 -C = 5
 
 **First time running the game on cluster**
 
-![GitHub Logo](./Figure0_003.png)      ![GitHub Logo](./FewTimeTr.png)
+![GitHub Logo](./Figure0_003.png)     
 
 
 **After a few times training the game**
