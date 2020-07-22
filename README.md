@@ -40,7 +40,7 @@ the game the algorithm trained based upon the SARSA algorithm using the followin
 Using the python code in the game the SARSA algorithm performed and it trained the agent
 where the next action taken. The SARSA algorithm works in which the agent is in state S,
 actions taken by the agent in which the reward R taken. The agent gets back to the state S to take
-the next action A.
+the next action A .
 
 
 
