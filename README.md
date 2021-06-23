@@ -19,7 +19,7 @@ GPU = 1 -C = 5
 ![GitHub Logo](./Figure0_003.png)     
 
 
-**After a few times training the game**
+**After a few min training the game**
 
 ![GitHub Logo](./FewTimeTr.png)
 
