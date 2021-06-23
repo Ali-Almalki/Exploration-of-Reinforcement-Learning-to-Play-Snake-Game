@@ -1,4 +1,4 @@
-# snake-game
+# Snake-game
 **Snake Game with Poison Fruit**
 
 **Snake game Methodology Explanation** 
